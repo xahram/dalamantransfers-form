@@ -1,0 +1,14 @@
+.Button {
+    padding: 1% 1%;
+    background-color:azure;
+    color: black;
+    width: 25%;
+    box-sizing: border-box;
+  }
+  .Button:hover{
+      cursor: pointer;
+  }
+  .Border {
+      border: 2px solid royalblue;
+      box-shadow: 5px cornsilk;
+  }

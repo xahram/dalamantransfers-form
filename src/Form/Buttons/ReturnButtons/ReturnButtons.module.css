@@ -1,0 +1,14 @@
+.ReturnButtons {
+    width: 50%;
+    text-align: center;
+}
+.ReturnButtons > p{
+    /* width: 100%; */
+    text-align: left;
+    margin: 1% 0;
+}
+.ReturnButtons > button{
+    width: 40%;
+    /* max-width: 100%; */
+
+}

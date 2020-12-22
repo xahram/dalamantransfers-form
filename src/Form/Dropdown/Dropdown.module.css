@@ -1,0 +1,14 @@
+.Dropdown {
+  text-align: left;
+  width: 50%;
+}
+.Dropdown select{
+    font-size: 110%;
+    padding-left: 1%;
+    width: 90%;
+  }
+.Dropdown p{
+    /* font-size: 170%; */
+    max-width: 100%;
+    margin: 1% 0;
+  }

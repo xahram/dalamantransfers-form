@@ -1,0 +1,13 @@
+.Text{
+    text-align: left;
+    width: 50%;
+}
+.Input {
+    font-size: 170%;
+    padding-left: 1%;
+    width: 90%;
+}
+
+.Text p{
+    margin : 2% 0;
+}
